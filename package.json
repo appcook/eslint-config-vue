@@ -1,0 +1,30 @@
+{
+  "name": "@appcook/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Vue web application",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcook/eslint-config-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint vue",
+    "eslint-config-vue"
+  ],
+  "author": "Wang Chi <hiwangchi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appcook/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/appcook/eslint-config-vue#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-vue": "^7.16.0",
+    "prettier": "^2.3.2",
+    "vue-eslint-parser": "^7.10.0"
+  }
+}

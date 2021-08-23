@@ -3,7 +3,7 @@
     "../../index.js"
   ],
   "rules": {
-    // add your own rules to overwrite
+    "@typescript-eslint/no-unused-vars": 2
   },
   "ignorePatterns": [
     "*.html"

@@ -1,3 +1,5 @@
 .editorconfig
 .prettierrc
 examples
+tests
+.github

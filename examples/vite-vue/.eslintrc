@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "../../index.js"
+  ],
+  "rules": {
+    // add your own rules to overwrite
+  },
+  "ignorePatterns": [
+    "*.html"
+  ]
+}

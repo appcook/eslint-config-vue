@@ -1,0 +1,21 @@
+{
+  "name": "vite-vue-tsx",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview",
+    "lint": "../../node_modules/eslint/bin/eslint.js --ext .js,.jsx,.ts,.tsx,.vue ."
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.4.0",
+    "@vitejs/plugin-vue-jsx": "^1.1.7",
+    "@vue/compiler-sfc": "^3.0.5",
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4",
+    "vue-tsc": "^0.2.2"
+  }
+}

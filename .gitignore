@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 yarn.lock
+examples/**/package-lock.json
 *.log
 dist
 build
